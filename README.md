@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yuri Az!
+## Welcome to Yuri Az's profile!
 
 </div>
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Segue as redes abaixo!
+  ### Follow me on the social media bellow!
  
 <div> 
   <a href="https://www.instagram.com/yuri_aaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
