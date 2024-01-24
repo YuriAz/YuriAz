@@ -1,6 +1,4 @@
-## Welcome to Yuri Az's profile! 
- 
-  ### Contact me through my [portfolio](https://www.yuridiogo.com) or on the social media bellow!
+## Veja com destaque meus melhores projetos através do meu [portifólio](https://www.yuridiogo.com) !
  
 <div> 
 <!--   <a href="https://www.instagram.com/yuri_aaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
